@@ -1,3 +1,9 @@
+import os,sys,inspect
+
+sys.path.insert(1, os.path.join(sys.path[0], '../utils'))
+sys.path.insert(1, os.path.join(sys.path[0], '../const'))
+sys.path.insert(1, os.path.join(sys.path[0], '../enum'))
+
 import numpy as np
 import pygame
 import util_pygame_rect as UPR
