@@ -1,3 +1,3 @@
 ### Python utils
 
-Silly scripts.
+Python scripts.
